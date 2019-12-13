@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Angular" : "75",
+		"React" : "40",
+		"Ionic" : "80",
+		"Spring" : "65",
+		"Node js" : "60"
+	}
+}
