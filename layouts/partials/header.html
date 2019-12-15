@@ -27,6 +27,18 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-61R6BFD9H7"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-61R6BFD9H7');
+	</script>
+
+
+	{{ template "_internal/google_analytics.html" . }}
+	{{ template "_internal/google_analytics_async.html" . }}
 	<!-- Meta tags -->
 	<meta name="author" content="{{ $config.author }}">
 	<meta name="theme-color" content="#000000">
