@@ -2,14 +2,14 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "code",
+			"title" : "Websites",
+			"description" : "Custom website building, I have experience ranging from simple static informational website to complex dynamic website "
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "mobile",
+			"title" : "Mobile Applications",
+			"description" : "Custom mobile applications, built for IOS and Android devices "
 		}
 	]
 }
