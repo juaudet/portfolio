@@ -2,14 +2,14 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
+			"timeperiod" : "Sept 2018 - May 2019",
+			"company" : "Bing Bang ERP",
+			"website": "https://www.bigbangerp.com",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
+			"timeperiod" : "Sept 2019 - Present",
+			"company" : "Desjardins",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		}
 	]
